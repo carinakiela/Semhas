@@ -8,8 +8,8 @@
 </head>
 
 <body>
-    <h1 class="text-3xl font-bold text-blue-700">
-        Hello Tes
+    <h1 class="text-3xl font-bold text-red-700">
+        Hello Develop
     </h1>
 </body>
 
